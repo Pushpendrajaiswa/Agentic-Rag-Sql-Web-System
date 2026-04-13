@@ -1,3 +1,6 @@
+#Demo
+<img width="955" height="539" alt="image" src="https://github.com/user-attachments/assets/9378ac2b-8f02-4a81-a9c3-fae99d453d63" />
+
 # 🤖 Agentic AI System (RAG + SQL + Web)
 
 ## 🚀 Overview
